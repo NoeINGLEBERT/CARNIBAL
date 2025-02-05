@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{51ebbfce-909b-453a-bb2b-e9d9566b2d91}">
+		<property name="assetPath">
+			<value>Poursuite - Croisement (loop).wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>65.940816326530609</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2883e3-e0bd-4f4e-a19a-f49b91da8c65}</destination>
+		</relationship>
+	</object>
+</objects>

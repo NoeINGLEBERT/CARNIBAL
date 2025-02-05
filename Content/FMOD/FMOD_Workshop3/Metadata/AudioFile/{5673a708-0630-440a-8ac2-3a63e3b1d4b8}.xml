@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{5673a708-0630-440a-8ac2-3a63e3b1d4b8}">
+		<property name="assetPath">
+			<value>Droping_Stone_On_Tile_34.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.1803541666666666</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2883e3-e0bd-4f4e-a19a-f49b91da8c65}</destination>
+		</relationship>
+	</object>
+</objects>

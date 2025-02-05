@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{66a87c8d-4680-4885-84d6-349e0e73ef5c}">
+		<property name="name">
+			<value>Param_IsBraking</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9b05849a-fda9-4fac-b6fc-0df99837f2e2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{fe824c3b-0777-401b-9942-9dea69e3e14d}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{fe824c3b-0777-401b-9942-9dea69e3e14d}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>false</value>
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

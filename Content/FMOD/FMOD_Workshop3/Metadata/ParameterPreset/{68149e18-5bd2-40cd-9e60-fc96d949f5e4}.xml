@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{68149e18-5bd2-40cd-9e60-fc96d949f5e4}">
+		<property name="name">
+			<value>Param_GasLevel</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9b05849a-fda9-4fac-b6fc-0df99837f2e2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{12327556-baf0-43a7-bd34-2cc3bd030bad}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{12327556-baf0-43a7-bd34-2cc3bd030bad}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>100</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{8e39c907-6282-4801-8b62-d06ef8828f43}">
+		<property name="assetPath">
+			<value>SFX_Vehicle_Lights_TurnOn.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.0422499999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{3e2883e3-e0bd-4f4e-a19a-f49b91da8c65}</destination>
+		</relationship>
+	</object>
+</objects>

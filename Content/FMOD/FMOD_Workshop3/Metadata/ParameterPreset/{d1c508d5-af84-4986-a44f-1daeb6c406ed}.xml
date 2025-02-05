@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{d1c508d5-af84-4986-a44f-1daeb6c406ed}">
+		<property name="name">
+			<value>Param_IsOnGas</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9b05849a-fda9-4fac-b6fc-0df99837f2e2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ed12f540-c349-4d05-9051-0ad5bed8ed9c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ed12f540-c349-4d05-9051-0ad5bed8ed9c}">
+		<property name="parameterType">
+			<value>2</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="enumerationLabels">
+			<value>false</value>
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

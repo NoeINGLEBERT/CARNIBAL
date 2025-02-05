@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{0cb1129f-3eb6-4e6e-80ef-ec873002ec49}">
+		<property name="name">
+			<value>Param_EnemiesAround</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9b05849a-fda9-4fac-b6fc-0df99837f2e2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{58c44dcb-cd30-4329-bd0e-ef99c5579122}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{58c44dcb-cd30-4329-bd0e-ef99c5579122}">
+		<property name="maximum">
+			<value>10</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

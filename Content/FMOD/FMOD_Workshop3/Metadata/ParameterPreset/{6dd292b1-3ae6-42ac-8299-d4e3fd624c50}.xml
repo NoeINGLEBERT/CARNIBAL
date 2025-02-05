@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6dd292b1-3ae6-42ac-8299-d4e3fd624c50}">
+		<property name="name">
+			<value>Param_VolMX</value>
+		</property>
+		<relationship name="folder">
+			<destination>{9b05849a-fda9-4fac-b6fc-0df99837f2e2}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{dfb1a361-7f0b-4f07-9b74-10e80b7c095c}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{dfb1a361-7f0b-4f07-9b74-10e80b7c095c}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>80</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>
